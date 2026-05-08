@@ -59,6 +59,4 @@ Each agent is specialized with:
 
 ---
 
-```bash
-git clone https://github.com/your-username/market-research-crew.git
-cd market-research-crew
+
